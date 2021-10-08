@@ -17,7 +17,9 @@ module.exports = {
         }
       },
       backgroundImage:{
-        darkbackground: "url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v882-sasi-13.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=012f0abdf565090eb02bdeb9f97d0f88')",
+        darkbackground: "url('https://designshack.net/wp-content/uploads/Slate-Texture-BW-Background.jpg')",
+        darkhive: "url('https://thumbnails-photos.amazon.com/v1/thumbnail/HjBySUiQR1qbIyxlr8sWFg?viewBox=1577%2C887&ownerId=A3F4ZK1XGPD068&groupShareToken=qWhphZvYTaGI-UGE_IpGNg.vPQBakdQEG0-zvKEWGyC0f')",
+        deepblue: "url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701908956-768x432.jpg')",
       },
     }
   },
