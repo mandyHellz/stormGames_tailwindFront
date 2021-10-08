@@ -19,7 +19,11 @@ module.exports = {
     }
   },
   variants: {
-    extend: {},
+    extend: {
+      blur: ['hover'],
+      grayscale: ['hover'],
+      position: ['hover', 'focus']
+    },
   },
   plugins: [],
 }

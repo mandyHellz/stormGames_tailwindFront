@@ -740,6 +740,48 @@ video {
   position: sticky;
 }
 
+.hover\:static:hover {
+  position: static;
+}
+
+.hover\:fixed:hover {
+  position: fixed;
+}
+
+.hover\:absolute:hover {
+  position: absolute;
+}
+
+.hover\:relative:hover {
+  position: relative;
+}
+
+.hover\:sticky:hover {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.focus\:static:focus {
+  position: static;
+}
+
+.focus\:fixed:focus {
+  position: fixed;
+}
+
+.focus\:absolute:focus {
+  position: absolute;
+}
+
+.focus\:relative:focus {
+  position: relative;
+}
+
+.focus\:sticky:focus {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 .inset-0 {
   top: 0px;
   right: 0px;
@@ -32028,6 +32070,42 @@ video {
   --tw-blur: blur(64px);
 }
 
+.hover\:blur-0:hover {
+  --tw-blur: blur(0);
+}
+
+.hover\:blur-none:hover {
+  --tw-blur: blur(0);
+}
+
+.hover\:blur-sm:hover {
+  --tw-blur: blur(4px);
+}
+
+.hover\:blur:hover {
+  --tw-blur: blur(8px);
+}
+
+.hover\:blur-md:hover {
+  --tw-blur: blur(12px);
+}
+
+.hover\:blur-lg:hover {
+  --tw-blur: blur(16px);
+}
+
+.hover\:blur-xl:hover {
+  --tw-blur: blur(24px);
+}
+
+.hover\:blur-2xl:hover {
+  --tw-blur: blur(40px);
+}
+
+.hover\:blur-3xl:hover {
+  --tw-blur: blur(64px);
+}
+
 .brightness-0 {
   --tw-brightness: brightness(0);
 }
@@ -32133,6 +32211,14 @@ video {
 }
 
 .grayscale {
+  --tw-grayscale: grayscale(100%);
+}
+
+.hover\:grayscale-0:hover {
+  --tw-grayscale: grayscale(0);
+}
+
+.hover\:grayscale:hover {
   --tw-grayscale: grayscale(100%);
 }
 
@@ -32754,6 +32840,48 @@ video {
   }
 
   .sm\:sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .sm\:hover\:static:hover {
+    position: static;
+  }
+
+  .sm\:hover\:fixed:hover {
+    position: fixed;
+  }
+
+  .sm\:hover\:absolute:hover {
+    position: absolute;
+  }
+
+  .sm\:hover\:relative:hover {
+    position: relative;
+  }
+
+  .sm\:hover\:sticky:hover {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .sm\:focus\:static:focus {
+    position: static;
+  }
+
+  .sm\:focus\:fixed:focus {
+    position: fixed;
+  }
+
+  .sm\:focus\:absolute:focus {
+    position: absolute;
+  }
+
+  .sm\:focus\:relative:focus {
+    position: relative;
+  }
+
+  .sm\:focus\:sticky:focus {
     position: -webkit-sticky;
     position: sticky;
   }
@@ -63623,6 +63751,42 @@ video {
     --tw-blur: blur(64px);
   }
 
+  .sm\:hover\:blur-0:hover {
+    --tw-blur: blur(0);
+  }
+
+  .sm\:hover\:blur-none:hover {
+    --tw-blur: blur(0);
+  }
+
+  .sm\:hover\:blur-sm:hover {
+    --tw-blur: blur(4px);
+  }
+
+  .sm\:hover\:blur:hover {
+    --tw-blur: blur(8px);
+  }
+
+  .sm\:hover\:blur-md:hover {
+    --tw-blur: blur(12px);
+  }
+
+  .sm\:hover\:blur-lg:hover {
+    --tw-blur: blur(16px);
+  }
+
+  .sm\:hover\:blur-xl:hover {
+    --tw-blur: blur(24px);
+  }
+
+  .sm\:hover\:blur-2xl:hover {
+    --tw-blur: blur(40px);
+  }
+
+  .sm\:hover\:blur-3xl:hover {
+    --tw-blur: blur(64px);
+  }
+
   .sm\:brightness-0 {
     --tw-brightness: brightness(0);
   }
@@ -63728,6 +63892,14 @@ video {
   }
 
   .sm\:grayscale {
+    --tw-grayscale: grayscale(100%);
+  }
+
+  .sm\:hover\:grayscale-0:hover {
+    --tw-grayscale: grayscale(0);
+  }
+
+  .sm\:hover\:grayscale:hover {
     --tw-grayscale: grayscale(100%);
   }
 
@@ -64346,6 +64518,48 @@ video {
   }
 
   .md\:sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .md\:hover\:static:hover {
+    position: static;
+  }
+
+  .md\:hover\:fixed:hover {
+    position: fixed;
+  }
+
+  .md\:hover\:absolute:hover {
+    position: absolute;
+  }
+
+  .md\:hover\:relative:hover {
+    position: relative;
+  }
+
+  .md\:hover\:sticky:hover {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .md\:focus\:static:focus {
+    position: static;
+  }
+
+  .md\:focus\:fixed:focus {
+    position: fixed;
+  }
+
+  .md\:focus\:absolute:focus {
+    position: absolute;
+  }
+
+  .md\:focus\:relative:focus {
+    position: relative;
+  }
+
+  .md\:focus\:sticky:focus {
     position: -webkit-sticky;
     position: sticky;
   }
@@ -95215,6 +95429,42 @@ video {
     --tw-blur: blur(64px);
   }
 
+  .md\:hover\:blur-0:hover {
+    --tw-blur: blur(0);
+  }
+
+  .md\:hover\:blur-none:hover {
+    --tw-blur: blur(0);
+  }
+
+  .md\:hover\:blur-sm:hover {
+    --tw-blur: blur(4px);
+  }
+
+  .md\:hover\:blur:hover {
+    --tw-blur: blur(8px);
+  }
+
+  .md\:hover\:blur-md:hover {
+    --tw-blur: blur(12px);
+  }
+
+  .md\:hover\:blur-lg:hover {
+    --tw-blur: blur(16px);
+  }
+
+  .md\:hover\:blur-xl:hover {
+    --tw-blur: blur(24px);
+  }
+
+  .md\:hover\:blur-2xl:hover {
+    --tw-blur: blur(40px);
+  }
+
+  .md\:hover\:blur-3xl:hover {
+    --tw-blur: blur(64px);
+  }
+
   .md\:brightness-0 {
     --tw-brightness: brightness(0);
   }
@@ -95320,6 +95570,14 @@ video {
   }
 
   .md\:grayscale {
+    --tw-grayscale: grayscale(100%);
+  }
+
+  .md\:hover\:grayscale-0:hover {
+    --tw-grayscale: grayscale(0);
+  }
+
+  .md\:hover\:grayscale:hover {
     --tw-grayscale: grayscale(100%);
   }
 
@@ -95938,6 +96196,48 @@ video {
   }
 
   .lg\:sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .lg\:hover\:static:hover {
+    position: static;
+  }
+
+  .lg\:hover\:fixed:hover {
+    position: fixed;
+  }
+
+  .lg\:hover\:absolute:hover {
+    position: absolute;
+  }
+
+  .lg\:hover\:relative:hover {
+    position: relative;
+  }
+
+  .lg\:hover\:sticky:hover {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .lg\:focus\:static:focus {
+    position: static;
+  }
+
+  .lg\:focus\:fixed:focus {
+    position: fixed;
+  }
+
+  .lg\:focus\:absolute:focus {
+    position: absolute;
+  }
+
+  .lg\:focus\:relative:focus {
+    position: relative;
+  }
+
+  .lg\:focus\:sticky:focus {
     position: -webkit-sticky;
     position: sticky;
   }
@@ -126807,6 +127107,42 @@ video {
     --tw-blur: blur(64px);
   }
 
+  .lg\:hover\:blur-0:hover {
+    --tw-blur: blur(0);
+  }
+
+  .lg\:hover\:blur-none:hover {
+    --tw-blur: blur(0);
+  }
+
+  .lg\:hover\:blur-sm:hover {
+    --tw-blur: blur(4px);
+  }
+
+  .lg\:hover\:blur:hover {
+    --tw-blur: blur(8px);
+  }
+
+  .lg\:hover\:blur-md:hover {
+    --tw-blur: blur(12px);
+  }
+
+  .lg\:hover\:blur-lg:hover {
+    --tw-blur: blur(16px);
+  }
+
+  .lg\:hover\:blur-xl:hover {
+    --tw-blur: blur(24px);
+  }
+
+  .lg\:hover\:blur-2xl:hover {
+    --tw-blur: blur(40px);
+  }
+
+  .lg\:hover\:blur-3xl:hover {
+    --tw-blur: blur(64px);
+  }
+
   .lg\:brightness-0 {
     --tw-brightness: brightness(0);
   }
@@ -126912,6 +127248,14 @@ video {
   }
 
   .lg\:grayscale {
+    --tw-grayscale: grayscale(100%);
+  }
+
+  .lg\:hover\:grayscale-0:hover {
+    --tw-grayscale: grayscale(0);
+  }
+
+  .lg\:hover\:grayscale:hover {
     --tw-grayscale: grayscale(100%);
   }
 
@@ -127530,6 +127874,48 @@ video {
   }
 
   .xl\:sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .xl\:hover\:static:hover {
+    position: static;
+  }
+
+  .xl\:hover\:fixed:hover {
+    position: fixed;
+  }
+
+  .xl\:hover\:absolute:hover {
+    position: absolute;
+  }
+
+  .xl\:hover\:relative:hover {
+    position: relative;
+  }
+
+  .xl\:hover\:sticky:hover {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .xl\:focus\:static:focus {
+    position: static;
+  }
+
+  .xl\:focus\:fixed:focus {
+    position: fixed;
+  }
+
+  .xl\:focus\:absolute:focus {
+    position: absolute;
+  }
+
+  .xl\:focus\:relative:focus {
+    position: relative;
+  }
+
+  .xl\:focus\:sticky:focus {
     position: -webkit-sticky;
     position: sticky;
   }
@@ -158399,6 +158785,42 @@ video {
     --tw-blur: blur(64px);
   }
 
+  .xl\:hover\:blur-0:hover {
+    --tw-blur: blur(0);
+  }
+
+  .xl\:hover\:blur-none:hover {
+    --tw-blur: blur(0);
+  }
+
+  .xl\:hover\:blur-sm:hover {
+    --tw-blur: blur(4px);
+  }
+
+  .xl\:hover\:blur:hover {
+    --tw-blur: blur(8px);
+  }
+
+  .xl\:hover\:blur-md:hover {
+    --tw-blur: blur(12px);
+  }
+
+  .xl\:hover\:blur-lg:hover {
+    --tw-blur: blur(16px);
+  }
+
+  .xl\:hover\:blur-xl:hover {
+    --tw-blur: blur(24px);
+  }
+
+  .xl\:hover\:blur-2xl:hover {
+    --tw-blur: blur(40px);
+  }
+
+  .xl\:hover\:blur-3xl:hover {
+    --tw-blur: blur(64px);
+  }
+
   .xl\:brightness-0 {
     --tw-brightness: brightness(0);
   }
@@ -158504,6 +158926,14 @@ video {
   }
 
   .xl\:grayscale {
+    --tw-grayscale: grayscale(100%);
+  }
+
+  .xl\:hover\:grayscale-0:hover {
+    --tw-grayscale: grayscale(0);
+  }
+
+  .xl\:hover\:grayscale:hover {
     --tw-grayscale: grayscale(100%);
   }
 
@@ -159122,6 +159552,48 @@ video {
   }
 
   .\32xl\:sticky {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .\32xl\:hover\:static:hover {
+    position: static;
+  }
+
+  .\32xl\:hover\:fixed:hover {
+    position: fixed;
+  }
+
+  .\32xl\:hover\:absolute:hover {
+    position: absolute;
+  }
+
+  .\32xl\:hover\:relative:hover {
+    position: relative;
+  }
+
+  .\32xl\:hover\:sticky:hover {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  .\32xl\:focus\:static:focus {
+    position: static;
+  }
+
+  .\32xl\:focus\:fixed:focus {
+    position: fixed;
+  }
+
+  .\32xl\:focus\:absolute:focus {
+    position: absolute;
+  }
+
+  .\32xl\:focus\:relative:focus {
+    position: relative;
+  }
+
+  .\32xl\:focus\:sticky:focus {
     position: -webkit-sticky;
     position: sticky;
   }
@@ -189991,6 +190463,42 @@ video {
     --tw-blur: blur(64px);
   }
 
+  .\32xl\:hover\:blur-0:hover {
+    --tw-blur: blur(0);
+  }
+
+  .\32xl\:hover\:blur-none:hover {
+    --tw-blur: blur(0);
+  }
+
+  .\32xl\:hover\:blur-sm:hover {
+    --tw-blur: blur(4px);
+  }
+
+  .\32xl\:hover\:blur:hover {
+    --tw-blur: blur(8px);
+  }
+
+  .\32xl\:hover\:blur-md:hover {
+    --tw-blur: blur(12px);
+  }
+
+  .\32xl\:hover\:blur-lg:hover {
+    --tw-blur: blur(16px);
+  }
+
+  .\32xl\:hover\:blur-xl:hover {
+    --tw-blur: blur(24px);
+  }
+
+  .\32xl\:hover\:blur-2xl:hover {
+    --tw-blur: blur(40px);
+  }
+
+  .\32xl\:hover\:blur-3xl:hover {
+    --tw-blur: blur(64px);
+  }
+
   .\32xl\:brightness-0 {
     --tw-brightness: brightness(0);
   }
@@ -190096,6 +190604,14 @@ video {
   }
 
   .\32xl\:grayscale {
+    --tw-grayscale: grayscale(100%);
+  }
+
+  .\32xl\:hover\:grayscale-0:hover {
+    --tw-grayscale: grayscale(0);
+  }
+
+  .\32xl\:hover\:grayscale:hover {
     --tw-grayscale: grayscale(100%);
   }
 
