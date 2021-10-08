@@ -9,8 +9,14 @@ module.exports = {
       },
       fontFamily: {
         'Roboto': ['Roboto', 'sans-serif'],
+      },
+      colors: {
+        'stormBlue': {
+          default: '#2A2D40',
+          darken: '#1B1D2A',
+        }
       }
-    },
+    }
   },
   variants: {
     extend: {},
