@@ -14,12 +14,20 @@ module.exports = {
         'stormBlue': {
           default: '#2A2D40',
           darken: '#1B1D2A',
-        }
+          light:'#207877',
+        },
       },
       backgroundImage:{
         darkbackground: "url('https://designshack.net/wp-content/uploads/Slate-Texture-BW-Background.jpg')",
         darkhive: "url('https://thumbnails-photos.amazon.com/v1/thumbnail/HjBySUiQR1qbIyxlr8sWFg?viewBox=1577%2C887&ownerId=A3F4ZK1XGPD068&groupShareToken=qWhphZvYTaGI-UGE_IpGNg.vPQBakdQEG0-zvKEWGyC0f')",
         deepblue: "url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701908956-768x432.jpg')",
+        valhallaback: "url('https://wallpapercave.com/wp/wp6200922.jpg')"
+      },
+      maxHeight: {
+        '1/4': '25%',
+        '1/2': '50%',
+        '3/4': '75%',
+        '4/5': '80%',
       },
     }
   },
