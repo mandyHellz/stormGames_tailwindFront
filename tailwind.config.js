@@ -17,11 +17,11 @@ module.exports = {
           light:'#207877',
         },
       },
-      backgroundImage:{
-        darkbackground: "url('https://designshack.net/wp-content/uploads/Slate-Texture-BW-Background.jpg')",
-        darkhive: "url('https://thumbnails-photos.amazon.com/v1/thumbnail/HjBySUiQR1qbIyxlr8sWFg?viewBox=1577%2C887&ownerId=A3F4ZK1XGPD068&groupShareToken=qWhphZvYTaGI-UGE_IpGNg.vPQBakdQEG0-zvKEWGyC0f')",
-        deepblue: "url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701908956-768x432.jpg')",
-        valhallaback: "url('https://wallpapercave.com/wp/wp6200922.jpg')"
+      backgroundImage: {
+        'darkbackground': "url('https://designshack.net/wp-content/uploads/Slate-Texture-BW-Background.jpg')",
+        'deepblue': "url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701908956-768x432.jpg')",
+        'valhallaback': "url('https://tecnoblog.net/wp-content/uploads/2020/11/Assassins-Creed-Valhalla-1-review-1060x596.png')",
+        'valhallamobile': "url('https://www.mordeo.org/download/21888/')",
       },
       maxHeight: {
         '1/4': '25%',
