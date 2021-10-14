@@ -22,6 +22,7 @@ module.exports = {
         'deepblue': "url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701908956-768x432.jpg')",
         'valhallaback': "url('https://tecnoblog.net/wp-content/uploads/2020/11/Assassins-Creed-Valhalla-1-review-1060x596.png')",
         'valhallamobile': "url('https://www.mordeo.org/download/21888/')",
+        'loginbg': "url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg')",
       },
       maxHeight: {
         '1/4': '25%',

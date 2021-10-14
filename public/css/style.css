@@ -18037,6 +18037,10 @@ video {
   background-image: url('https://www.mordeo.org/download/21888/');
 }
 
+.bg-loginbg {
+  background-image: url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -50287,6 +50291,10 @@ video {
     background-image: url('https://www.mordeo.org/download/21888/');
   }
 
+  .sm\:bg-loginbg {
+    background-image: url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -82171,6 +82179,10 @@ video {
 
   .md\:bg-valhallamobile {
     background-image: url('https://www.mordeo.org/download/21888/');
+  }
+
+  .md\:bg-loginbg {
+    background-image: url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg');
   }
 
   .md\:from-transparent {
@@ -114059,6 +114071,10 @@ video {
     background-image: url('https://www.mordeo.org/download/21888/');
   }
 
+  .lg\:bg-loginbg {
+    background-image: url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -145945,6 +145961,10 @@ video {
     background-image: url('https://www.mordeo.org/download/21888/');
   }
 
+  .xl\:bg-loginbg {
+    background-image: url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -177829,6 +177849,10 @@ video {
 
   .\32xl\:bg-valhallamobile {
     background-image: url('https://www.mordeo.org/download/21888/');
+  }
+
+  .\32xl\:bg-loginbg {
+    background-image: url('https://s3.amazonaws.com/ultrawidewallpapers/86.jpg');
   }
 
   .\32xl\:from-transparent {
